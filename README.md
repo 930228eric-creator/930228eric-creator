@@ -1,4 +1,4 @@
-## Hi there 👋
+你好 👋
 
 <!--
 **930228eric-creator/930228eric-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
