@@ -37,7 +37,7 @@
 ---
 
 ## 📫 聯絡我
-*   [GitHub](https://github.com/930228eric-creator)
+*  930228eric@gmail.com
 *   歡迎交流運輸工程、AI 應用與數據分析相關議題！
 
 ---
